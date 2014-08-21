@@ -1,18 +1,17 @@
 /**
- * swipeboxmg-jscss
+ * swipeboxmg-js
  *
- * include js and css for swipebox mini gallery multitv
+ * include js for swipebox mini gallery multitv
  *
  * @author      tattoocms.it
  * @category	chunk
- * @version 	1.0
+ * @version 	1.1
  * @license 	http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL)
  * @internal	@modx_category MultiTV add-ons
  * @internal    @installset base
  * @internal    @overwrite false
  */
 
-<link rel="stylesheet" type="text/css" href="/assets/templates/common/js/swipeboxmg/src/css/swipeboxmg.css" media="screen" />
 <!--script type="text/javascript" src="/assets/templates/common/js/swipeboxmg/lib/jquery-2.0.3.js"></script>  -->
 <script type="text/javascript" src="/assets/templates/common/js/swipeboxmg/src/js/jquery.swipebox.js"></script>
 
